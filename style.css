@@ -1,0 +1,16 @@
+/* Mengimpor font Poppins dari Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+/* Pengaturan dasar halaman */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F4F7FC; /* Warna background kebiruan sangat muda */
+}
+
+/* Custom class untuk background efek brush di belakang foto */
+.brush-bg {
+    /* Ganti URL di bawah ini dengan nama file gambar brush kamu, contoh: url('brush-effect.png'); */
+    background-image: url('https://www.transparenttextures.com/patterns/stardust.png'); 
+    background-size: cover;
+    background-position: center;
+}
