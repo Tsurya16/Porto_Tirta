@@ -4,7 +4,7 @@
 /* Pengaturan dasar halaman */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #F4F7FC; /* Warna background kebiruan sangat muda */
+    /* Warna latar belakang otomatis diatur oleh class Tailwind bg-[#F4F7FC] di HTML */
 }
 
 /* Custom class untuk background efek brush di belakang foto */
